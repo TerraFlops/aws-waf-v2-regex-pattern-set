@@ -16,7 +16,7 @@ variable "scope" {
 
 variable "tags" {
   type = map(string)
-  description = ""
+  description = "An array of key:value pairs to associate with the resource."
   default = {}
 }
 
