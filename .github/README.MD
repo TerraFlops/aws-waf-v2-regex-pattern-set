@@ -1,8 +1,8 @@
 # Terraflops Terraform Module
  
-### Module name
+### WAFv2 Regex Pattern Set
 
-Insert module description
+Provides an AWS WAFv2 Regex Pattern Set Resource.
 
 #### Example usage
 
